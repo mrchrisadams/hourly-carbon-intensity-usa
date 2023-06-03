@@ -1,0 +1,9 @@
+data
+cruft
+
+.venv
+
+# do not check any data into source control
+*.db
+*.parquet
+*.xlsx
