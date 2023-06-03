@@ -1,0 +1,83 @@
+ID	Type	Name	URL
+CAL	Region	California	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/Region_CAL.xlsx
+CAR	Region	Carolinas	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/Region_CAR.xlsx
+CENT	Region	Central	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/Region_CENT.xlsx
+FLA	Region	Florida	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/Region_FLA.xlsx
+MIDA	Region	Mid-Atlantic	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/Region_MIDA.xlsx
+MIDW	Region	Midwest	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/Region_MIDW.xlsx
+NE	Region	New England	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/Region_NE.xlsx
+NY	Region	New York	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/Region_NY.xlsx
+NW	Region	Northwest	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/Region_NW.xlsx
+SE	Region	Southeast	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/Region_SE.xlsx
+SW	Region	Southwest	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/Region_SW.xlsx
+TEN	Region	Tennessee	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/Region_TEN.xlsx
+TEX	Region	Texas	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/Region_TEX.xlsx
+US48	Region	United States Lower 48	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/Region_US48.xlsx
+YAD	BA	Alcoa Power Generating, Inc. - Yadkin Division	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/YAD.xlsx
+AZPS	BA	Arizona Public Service Company	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/AZPS.xlsx
+DEAA	BA	Arlington Valley, LLC	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/DEAA.xlsx
+AECI	BA	Associated Electric Cooperative, Inc.	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/AECI.xlsx
+AVRN	BA	Avangrid Renewables, LLC	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/AVRN.xlsx
+AVA	BA	Avista Corporation	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/AVA.xlsx
+BANC	BA	Balancing Authority of Northern California	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/BANC.xlsx
+BPAT	BA	Bonneville Power Administration	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/BPAT.xlsx
+CISO	BA	California Independent System Operator	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/CISO.xlsx
+HST	BA	City of Homestead	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/HST.xlsx
+TPWR	BA	City of Tacoma, Department of Public Utilities, Light Division	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/TPWR.xlsx
+TAL	BA	City of Tallahassee	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/TAL.xlsx
+SCEG	BA	Dominion Energy South Carolina, Inc.	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/SCEG.xlsx
+DUK	BA	Duke Energy Carolinas	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/DUK.xlsx
+FPC	BA	Duke Energy Florida, Inc.	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/FPC.xlsx
+CPLE	BA	Duke Energy Progress East	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/CPLE.xlsx
+CPLW	BA	Duke Energy Progress West	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/CPLW.xlsx
+EPE	BA	El Paso Electric Company	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/EPE.xlsx
+EEI	BA	Electric Energy, Inc.	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/EEI.xlsx
+ERCO	BA	Electric Reliability Council of Texas, Inc.	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/ERCO.xlsx
+FMPP	BA	Florida Municipal Power Pool	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/FMPP.xlsx
+FPL	BA	Florida Power & Light Co.	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/FPL.xlsx
+GVL	BA	Gainesville Regional Utilities	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/GVL.xlsx
+GRMA	BA	Gila River Power, LLC	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/GRMA.xlsx
+GLHB	BA	GridLiance	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/GLHB.xlsx
+GRID	BA	Gridforce Energy Management, LLC	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/GRID.xlsx
+GRIF	BA	Griffith Energy, LLC	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/GRIF.xlsx
+ISNE	BA	ISO New England	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/ISNE.xlsx
+IPCO	BA	Idaho Power Company	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/IPCO.xlsx
+IID	BA	Imperial Irrigation District	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/IID.xlsx
+JEA	BA	JEA	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/JEA.xlsx
+LDWP	BA	Los Angeles Department of Water and Power	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/LDWP.xlsx
+LGEE	BA	Louisville Gas and Electric Company and Kentucky Utilities Company	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/LGEE.xlsx
+MISO	BA	Midcontinent Independent System Operator, Inc.	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/MISO.xlsx
+GWA	BA	NaturEner Power Watch, LLC	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/GWA.xlsx
+WWA	BA	NaturEner Wind Watch, LLC	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/WWA.xlsx
+NEVP	BA	Nevada Power Company	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/NEVP.xlsx
+HGMA	BA	New Harquahala Generating Company, LLC	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/HGMA.xlsx
+NYIS	BA	New York Independent System Operator	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/NYIS.xlsx
+NWMT	BA	NorthWestern Corporation	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/NWMT.xlsx
+OVEC	BA	Ohio Valley Electric Corporation	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/OVEC.xlsx
+PJM	BA	PJM Interconnection, LLC	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/PJM.xlsx
+DOPD	BA	PUD No. 1 of Douglas County	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/DOPD.xlsx
+PACE	BA	PacifiCorp East	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/PACE.xlsx
+PACW	BA	PacifiCorp West	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/PACW.xlsx
+PGE	BA	Portland General Electric Company	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/PGE.xlsx
+AEC	BA	PowerSouth Energy Cooperative	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/AEC.xlsx
+PSCO	BA	Public Service Company of Colorado	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/PSCO.xlsx
+PNM	BA	Public Service Company of New Mexico	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/PNM.xlsx
+CHPD	BA	Public Utility District No. 1 of Chelan County	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/CHPD.xlsx
+GCPD	BA	Public Utility District No. 2 of Grant County, Washington	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/GCPD.xlsx
+PSEI	BA	Puget Sound Energy, Inc.	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/PSEI.xlsx
+SRP	BA	Salt River Project Agricultural Improvement and Power District	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/SRP.xlsx
+SCL	BA	Seattle City Light	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/SCL.xlsx
+SEC	BA	Seminole Electric Cooperative	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/SEC.xlsx
+SC	BA	South Carolina Public Service Authority	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/SC.xlsx
+SEPA	BA	Southeastern Power Administration	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/SEPA.xlsx
+SOCO	BA	Southern Company Services, Inc. - Trans	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/SOCO.xlsx
+SWPP	BA	Southwest Power Pool	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/SWPP.xlsx
+SPA	BA	Southwestern Power Administration	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/SPA.xlsx
+TEC	BA	Tampa Electric Company	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/TEC.xlsx
+TVA	BA	Tennessee Valley Authority	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/TVA.xlsx
+TEPC	BA	Tucson Electric Power	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/TEPC.xlsx
+TIDC	BA	Turlock Irrigation District	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/TIDC.xlsx
+NSB	BA	Utilities Commission of New Smyrna Beach	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/NSB.xlsx
+WALC	BA	Western Area Power Administration - Desert Southwest Region	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/WALC.xlsx
+WACM	BA	Western Area Power Administration - Rocky Mountain Region	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/WACM.xlsx
+WAUW	BA	Western Area Power Administration - Upper Great Plains West	https://www.eia.gov/electricity/gridmonitor/knownissues/xls/WAUW.xlsx

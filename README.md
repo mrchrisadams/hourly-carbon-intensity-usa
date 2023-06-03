@@ -39,7 +39,12 @@ For convenience, it includes datasette, so you can make the SQlite database avia
 - [x] Figure out how to make small parquet file of the data for easy fast querying
 - [ ] Confirm data licensing
 - [ ] Write github action to fetch the hourly co2 figures for every balancing authority listed on a regular basis, and put the parquet file somewhere online
+- [ ] Set up a proper Pipfile / pyproject.toml file, instead of a janky requirements.txt one
 
 # Contributing
 
-Pull requests are very gratefully accepted.
+Pull requests are very gratefully accepted
+
+# Licensing 
+
+Apache 2.0

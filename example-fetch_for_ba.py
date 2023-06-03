@@ -1,6 +1,7 @@
 import hourly_co2_intensity_usa
 
-# example
+# example URL - we need to iterate through a list of urls, but this code was written on a train with janky wifi, 
+# so it only uses one right now
 excel_path = hourly_co2_intensity_usa.fetch_hourly_co2_spreadsheet("https://www.eia.gov/electricity/gridmonitor/knownissues/xls/WAUW.xlsx")
 rows_with_data = hourly_co2_intensity_usa.rows_with_co2_data_from_excel(excel_path)
 readings = hourly_co2_intensity_usa.create_readings_from_rows(rows_with_data)

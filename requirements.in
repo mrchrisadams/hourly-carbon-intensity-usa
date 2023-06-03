@@ -1,0 +1,8 @@
+datasette==0.64.3
+duckdb==0.8.0
+httpx==0.24.1
+ipdb==0.13.13
+ipython==8.14.0
+openpyxl==3.1.2
+pytest==7.3.1
+sxl==0.0.1a10
