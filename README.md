@@ -19,6 +19,8 @@ Currently this information is not available via the EIA API data portal, but it 
 
 This project pretty much does these steps, and makes the data points available in a sqlite database that is easy to query, as well as creating parquet files that have the same data in very portable, easily queryable form.
 
+_it would be **so much** nicer to just have this extra datapoint in the nice new v2 of their API. I'm hoping me creating this repo can help demonstrate doing so that it would be useful to people_
+
 ## What is it in more detail
 
 This repo contains a python script that will
